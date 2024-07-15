@@ -1,14 +1,14 @@
-<h1 align="center">Hey !</h1>
+<h1 align="center">Hello there !</h1>
 
 <p align="center">
   <br><br>
-  <img src="https://cdn.discordapp.com/attachments/710641303871815732/992765822621732864/AcrobaticHilariousArgentineruddyduck-size_restricted.gif">
+  <img src="https://cdn.discordapp.com/attachments/710641303871815732/992765822621732864/AcrobaticHilariousArgentineruddyduck-size_restricted.gif](https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif">
   <br><br>
 </p>
 
 #
 ```diff
-👨🏻‍💻 >> 21 years old, french student
+👨🏻‍💻 >> 21 years old, french DevOps student
 ```
 #
 
