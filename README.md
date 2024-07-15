@@ -15,7 +15,7 @@
 <h1 align="center">HARDSKILLS</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ansible,azure,debian,discord,html,css,js,ts,kali,linux,nginx,postgres,py,react,terraform,ubuntu,vscode,vim,windows,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ansible,azure,debian,discord,html,css,js,ts,kali,linux,nginx,postgres,py,react,terraform,ubuntu,vscode,vim,windows,ps,wordpress" />
   </a>
 </p>
 
