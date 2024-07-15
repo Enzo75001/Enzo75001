@@ -12,6 +12,13 @@
 ```
 #
 
+<h1 align="center">HARDSKILLS</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ansible,azure,debian,discord,html,css,js,ts,kali,linux,nginx,postgres,py,react,terraform,ubuntu,vscode,vim,windows,wordpress" />
+  </a>
+</p>
+
 <h1 align="center">STATS</h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/Enzo75001?style=social">
